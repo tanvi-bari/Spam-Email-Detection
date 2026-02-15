@@ -42,7 +42,7 @@ Plotted confusion matrix using a heatmap.
 Prediction on New Data
 Tested the model using a custom sample email to classify it as spam or not spam.
 
-Outcome:
+## Outcome:
 Successfully built a Spam Detection Model with high accuracy.
 The model can effectively classify new emails as Spam or Not Spam.
 
